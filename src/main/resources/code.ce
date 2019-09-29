@@ -1,0 +1,5 @@
+mov R3 R5
+mov R2 3
+sal R3 R2
+sar R3 3
+mov R1 R3
